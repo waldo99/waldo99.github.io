@@ -1,0 +1,6 @@
+.customize-control select {
+width: 100%;
+}
+.hiddenSection {
+display: none !important;
+}
